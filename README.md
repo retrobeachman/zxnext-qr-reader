@@ -3,6 +3,7 @@
 A very basic guide to how to use the ZX Spectrum Next along with a PC to receive QR code results and take action upon their content. Links are at the end of this document.
 
 Video demonstration: https://youtu.be/gHjelwrzZ64
+
 Based on PiQRAP: https://www.youtube.com/watch?v=FiyGeKrGX2s
 
 Here's what I did. It's worth noting that I'm running Windows 10 so some things may be different for you.
