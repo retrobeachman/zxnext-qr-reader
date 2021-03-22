@@ -1,6 +1,6 @@
 # ZX Spectrum Next - QR Code Reader
 
-A guide to how to use the ZX Spectrum Next to receive QR code results and take action upon their content.
+A very basic guide to how to use the ZX Spectrum Next to receive QR code results and take action upon their content. Links are at the end of this.
 
 Here's what I did. It's worth notiing that I'm running Windows 10 so some things may be different for you.
 
