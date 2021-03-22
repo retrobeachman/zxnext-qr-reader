@@ -2,7 +2,7 @@
 
 A very basic guide to how to use the ZX Spectrum Next along with a PC to receive QR code results and take action upon their content. Links are at the end of this document.
 
-Here's what I did. It's worth notiing that I'm running Windows 10 so some things may be different for you.
+Here's what I did. It's worth noting that I'm running Windows 10 so some things may be different for you.
 
 ## Python
 #### See 'qr-code reader.py' for a file that has all the code from the guide linked at the end of this document for you.
