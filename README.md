@@ -1,5 +1,6 @@
-A guide to how to use the ZX Spectrum Next to receive QR code results and take action upon their content.
+#ZX Spectrum Next - QR Code Reader
 
+A guide to how to use the ZX Spectrum Next to receive QR code results and take action upon their content.
 
 Here's what I did. It's worth notiing that I'm running Windows 10 so some things may be different for you.
 
@@ -22,7 +23,11 @@ Then you just need to make sure you've got some z80 or sna files in your folder 
 
 Links:
 QR code in Python guide: https://cofounderstown.com/building-barcodeqr-code-reader-using-python-bf76c
+
 Python: https://www.python.org/downloads/
+
 XAMPP: https://www.apachefriends.org/download.html
+
 QR Code Generator: https://www.the-qrcode-generator.com/
+
 Remy's httpbank dot command: https://github.com/remy/next-httpbank
