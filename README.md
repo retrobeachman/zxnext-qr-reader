@@ -5,7 +5,7 @@ A very basic guide to how to use the ZX Spectrum Next to receive QR code results
 Here's what I did. It's worth notiing that I'm running Windows 10 so some things may be different for you.
 
 ## Python
-#### See 'qr-code reader.py'
+#### See 'qr-code reader.py' for a file that has all the code from the guide linked at the end of this document for you
 
 First I downloaded Python and installed it. This will be used for running the QR Code/Barcode reader.
 
@@ -35,7 +35,7 @@ You also need to make sure you have Remy's httpbank dot command downloaded, whic
 
 ## Games
 
-Then you just need to make sure you've got some z80 or sna files in your folder and then create some QR codes with the filenames of these.
+Then you just need to make sure you've got some z80 or sna files in your folder and then create some QR codes with the filenames of these. See the links at the end for the QR code generator I used. The QR code needs to contain the filename of your z80 or sna file. I haven't tested files with spaces in as yet so if you have problems with these then rename them so they don't have spaces and let me know (if I don't test that out in the meantime).
 
 
 ## Other
