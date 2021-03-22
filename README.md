@@ -12,6 +12,7 @@ First I downloaded Python and installed it. This will be used for running the QR
 Then I followed a guide whereby I needed to install some python libraries and created a python file which I can run which will turn on my webcam and wait for a QR code (see link at the end). It automatically creates a result.txt file which I have automatically saved to my web server.
 
 ## Web Server
+#### See link at the end for XAMPP. You can use whatever works for you.
 
 Then I downloaded and installed a web server to my laptop, this was XAMPP. I tried to use a very basic python web server for talking to Remy's httpbank, but it didn't work. You could of course sign up for free hosting, but keep in mind your site will need to work on plain http to be able to work with httpbank which we'll be using later on. If you already have a site set up then great.
 
@@ -28,6 +29,7 @@ Then I created another php file called 'resetresult.php'. This is so when a file
 Then I created a BASIC program which listens for changes to the result.txt file (qrcodes.bas). Make sure you update it to use your host on line 7.
 
 ## Remy Sharp's 'httpbank' dot command for the ZX Spectrum Next
+#### See 'Links' at the end for a download link
 
 You also need to make sure you have Remy's httpbank dot command downloaded, which lets you send/receive http requests, and placed in the same directory or your dot command folder. If you are placing httpbank in the same folder then the BASIC listing needs to be adjusted. You need to replace all instances of ".httpbank" with "../httpbank".
 
@@ -40,7 +42,7 @@ Then you just need to make sure you've got some z80 or sna files in your folder 
 
 You can of course adapt this to load any kind of file like image files (SCR/SL2), music files (PT3), etc. This is just a very basic implementation. I guess you could class it a proof of concept.
 
-If you have any feedback please let me know.
+If you have any feedback please let me know. This is my first github repository/guide.
 
 
 ### Links:
