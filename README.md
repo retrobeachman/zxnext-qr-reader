@@ -13,7 +13,19 @@ Here's what I did. It's worth noting that I'm running Windows 10 so some things 
 
 First I downloaded Python and installed it. This will be used for running the QR Code/Barcode reader.
 
-Then I followed a guide whereby I needed to install some python libraries and created a python file which I can run which will turn on my webcam and wait for a QR code (see link at the end). It automatically creates a result.txt file which I have automatically saved to my web server.
+Then I followed a guide whereby I needed to install some python libraries:
+
+#### Pillow (Python Imaging Library)
+pip install Pillow
+
+#### OpenCV (OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library)
+pip install opencv-python
+
+#### Pyzbar (Read one-dimensional barcodes and QR codes from Python 2 and 3 using the zbar library)
+Windows OS version: pip install pyzbar
+Mac OS version: brew install zbar
+
+I then created a python file which I can run which will turn on my webcam and wait for a QR code (see link at the end). It automatically creates a result.txt file which I have automatically saved to my web server.
 
 ## Web Server
 #### See link at the end for XAMPP. You can use whatever works for you.
