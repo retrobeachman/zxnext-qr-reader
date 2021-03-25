@@ -23,7 +23,7 @@ pip install opencv-python
 
 #### Pyzbar (Read one-dimensional barcodes and QR codes from Python 2 and 3 using the zbar library)
 Windows OS version: pip install pyzbar
-Mac OS version: brew install zbar
+(Mac OS version: brew install zbar)
 
 I then created a python file which I can run which will turn on my webcam and wait for a QR code (see link at the end). It automatically creates a result.txt file which I have automatically saved to my web server.
 
