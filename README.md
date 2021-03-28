@@ -56,7 +56,7 @@ If you have any feedback please let me know. This is my first github repository/
 
 ### Links:
 
-QR code in Python guide: https://towardsdatascience.com/building-a-barcode-qr-code-reader-using-python-360e22dfb6e5
+QR code in Python guide: https://towardsdatascience.com/building-a-barcode-qr-code-reader-using-python-360e22dfb6e5 (if not working try: https://cofounderstown.com/building-barcodeqr-code-reader-using-python-bf76c)
 
 Python: https://www.python.org/downloads/
 
