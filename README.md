@@ -37,10 +37,10 @@ Then I downloaded and installed a web server to my laptop, this was XAMPP. I tri
 
 Then I created a BASIC program which listens for changes to the result.txt file (qrcodes.bas). Make sure you update it to use your host on line 7.
 
-## Remy Sharp's 'httpbank' dot command for the ZX Spectrum Next
+## Remy Sharp's 'http' dot command for the ZX Spectrum Next
 #### See 'Links' at the end for a download link.
 
-You also need to make sure you have Remy's httpbank dot command downloaded, which lets you send/receive http requests, and placed in the same directory or your dot command folder. If you are placing httpbank in the same folder then the BASIC listing needs to be adjusted. You need to replace all instances of ".httpbank" with "../httpbank".
+You also need to make sure you have Remy's http dot command downloaded, which lets you send/receive http requests, and placed in the same directory or your dot command folder. If you are placing http in the same folder then the BASIC listing needs to be adjusted. You need to replace all instances of ".http" with "../http".
 
 ## Games
 
@@ -64,4 +64,4 @@ XAMPP: https://www.apachefriends.org/download.html
 
 QR Code Generator: https://www.the-qrcode-generator.com/
 
-Remy's httpbank dot command: https://github.com/remy/next-httpbank
+Remy's http dot command: https://github.com/remy/next-http
